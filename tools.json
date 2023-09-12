@@ -1,0 +1,38 @@
+[
+  {
+    "Name": "Honda Lawn Mower",
+    "Location": "Boston",
+    "Details": "",
+    "Image": "https://images.pexels.com/photos/9229821/pexels-photo-9229821.jpeg",
+    "Population": 10000,
+    "Latitude": -8.783195,
+    "Longitude": 34.508523
+  },
+  {
+    "Name": "2 Stroke Lawn Mower",
+    "Location": "Boston",
+    "Details": "",
+    "Image": "https://images.pexels.com/photos/4162011/pexels-photo-4162011.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "Population": 23000,
+    "Latitude": 12.769013,
+    "Longitude": -85.602364
+  },
+  {
+    "Name": "Circular Saw",
+    "Location": "Boston",
+    "Details": "",
+    "Population": 12000,
+    "Image": "https://images.pexels.com/photos/8820182/pexels-photo-8820182.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    "Latitude": 1.957709,
+    "Longitude": 37.297204
+  },
+  {
+    "Name": "Leaf Blower",
+    "Location": "Boston",
+    "Details": "",
+    "Image": "https://images.pexels.com/photos/162564/gardener-worker-gardening-machinery-162564.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "Population": 11000,
+    "Latitude": -8.783195,
+    "Longitude": -55.491477
+  }
+]
