@@ -27,6 +27,24 @@
     "Longitude": 37.297204
   },
   {
+    "Name": "Chainsaw",
+    "Location": "Boston",
+    "Details": "Placeholder",
+    "Population": 12000,
+    "Image": "https://images.unsplash.com/photo-1581788604067-769a11325b0d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3264&q=80",
+    "Latitude": 1.957709,
+    "Longitude": 37.297204
+  },
+    {
+    "Name": "Electric Drill",
+    "Location": "Boston",
+    "Details": "Placeholder",
+    "Population": 12000,
+    "Image": "https://images.unsplash.com/photo-1504148455328-c376907d081c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3378&q=80",
+    "Latitude": 1.957709,
+    "Longitude": 37.297204
+  },
+  {
     "Name": "Leaf Blower",
     "Location": "Boston",
     "Details": "Placeholder",
